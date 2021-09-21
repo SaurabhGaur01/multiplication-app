@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContentApp should render correctly 1`] = `
+<section>
+  <ul
+    className="list"
+  >
+    <li
+      className="border list-item"
+      id="list-item-1"
+      key="list-item-1"
+      onClick={[Function]}
+    >
+      2
+    </li>
+    <li
+      className="border list-item"
+      id="list-item-2"
+      key="list-item-2"
+      onClick={[Function]}
+    >
+      3
+    </li>
+    <li
+      className="border list-item"
+      id="list-item-3"
+      key="list-item-3"
+      onClick={[Function]}
+    >
+      4
+    </li>
+    <li
+      className="border list-item"
+      id="list-item-4"
+      key="list-item-4"
+      onClick={[Function]}
+    >
+      5
+    </li>
+    <li
+      className="border list-item"
+      id="list-item-5"
+      key="list-item-5"
+      onClick={[Function]}
+    >
+      6
+    </li>
+  </ul>
+</section>
+`;

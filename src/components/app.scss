@@ -1,0 +1,39 @@
+.appHeader {
+    background: #1879ca;
+}
+
+.list {
+    margin: 0 auto;
+    padding: 0;
+    display: grid;
+    max-width: 900px;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+
+.list-item {
+    list-style: none;
+    padding: 30px 15px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.active {
+    background-color: rgb(235, 225, 168);
+}
+
+/* Breakpoint for tablet and larger */
+@media only screen and (min-width: 640px) {
+    .list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+}
+  
+/* Breakpoint for typical desktop resolution */
+@media only screen and (min-width: 768px) {
+    .list {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
