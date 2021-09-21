@@ -4,7 +4,7 @@ This application will allow a child to understand multiplication. This app will 
 
 This application utilises - React, Jest & Enzyme Testing, Bootstrap.
 
-Click on [Demo](https://saurabhgaur01.github.io/multiplicationApp/) for quick view.
+Click on [Demo](https://saurabhgaur01.github.io/multiplication-app/) for quick view.
 ## Installation & Usage
 
 Use the package manager [Node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to run this project on your local. After installing, run below command to install all dependencies-
