@@ -33,7 +33,7 @@ This will test entire application including components, ducks, thunks, utils fun
 
 
 ## Contributing
-1. Fork it ( https://github.com/SaurabhGaur01/multiplication/fork )
+1. Fork it ( https://github.com/SaurabhGaur01/multiplication-app/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
