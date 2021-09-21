@@ -1,0 +1,2 @@
+.appHeader{background:#1879ca}.list{margin:0 auto;padding:0;display:grid;max-width:900px;grid-column-gap:5px;grid-row-gap:5px}.list-item{list-style:none;padding:30px 15px;text-align:center;font-size:20px;font-weight:600;cursor:pointer}.active{background-color:#ebe1a8}@media only screen and (min-width:640px){.list{grid-template-columns:repeat(2,1fr)}}@media only screen and (min-width:768px){.list{grid-template-columns:repeat(3,1fr)}}
+/*# sourceMappingURL=main.06f7121a.chunk.css.map */

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/multiplicationApp/static/css/main.06f7121a.chunk.css",
+    "main.js": "/multiplicationApp/static/js/main.642fcff7.chunk.js",
+    "main.js.map": "/multiplicationApp/static/js/main.642fcff7.chunk.js.map",
+    "runtime-main.js": "/multiplicationApp/static/js/runtime-main.69123e55.js",
+    "runtime-main.js.map": "/multiplicationApp/static/js/runtime-main.69123e55.js.map",
+    "static/css/2.c0e8d3f0.chunk.css": "/multiplicationApp/static/css/2.c0e8d3f0.chunk.css",
+    "static/js/2.86f4d67b.chunk.js": "/multiplicationApp/static/js/2.86f4d67b.chunk.js",
+    "static/js/2.86f4d67b.chunk.js.map": "/multiplicationApp/static/js/2.86f4d67b.chunk.js.map",
+    "index.html": "/multiplicationApp/index.html",
+    "static/css/2.c0e8d3f0.chunk.css.map": "/multiplicationApp/static/css/2.c0e8d3f0.chunk.css.map",
+    "static/css/main.06f7121a.chunk.css.map": "/multiplicationApp/static/css/main.06f7121a.chunk.css.map",
+    "static/js/2.86f4d67b.chunk.js.LICENSE.txt": "/multiplicationApp/static/js/2.86f4d67b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69123e55.js",
+    "static/css/2.c0e8d3f0.chunk.css",
+    "static/js/2.86f4d67b.chunk.js",
+    "static/css/main.06f7121a.chunk.css",
+    "static/js/main.642fcff7.chunk.js"
+  ]
+}
